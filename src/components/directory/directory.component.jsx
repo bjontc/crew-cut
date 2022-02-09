@@ -12,32 +12,32 @@ class Directory extends React.Component {
             sections: [
                 {
                     title: 'hats',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    imageUrl: 'https://images.pexels.com/photos/458649/pexels-photo-458649.jpeg',
                     id: 1,
                     linkUrl: 'shop/hats'
                   },
                   {
                     title: 'jackets',
-                    imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+                    imageUrl: 'https://images.pexels.com/photos/5490979/pexels-photo-5490979.jpeg',
                     id: 2,
                     linkUrl: 'shop/jackets'
                   },
                   {
                     title: 'sneakers',
-                    imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+                    imageUrl: 'https://images.pexels.com/photos/10643476/pexels-photo-10643476.jpeg',
                     id: 3,
                     linkUrl: 'shop/sneakers'
                   },
                   {
                     title: 'womens',
-                    imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+                    imageUrl: 'https://images.pexels.com/photos/1844012/pexels-photo-1844012.jpeg',
                     size: 'large',
                     id: 4,
                     linkUrl: 'shop/womens'
                   },
                   {
                     title: 'mens',
-                    imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+                    imageUrl: 'https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg',
                     size: 'large',
                     id: 5,
                     linkUrl: 'shop/mens'
